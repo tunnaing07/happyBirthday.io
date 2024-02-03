@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Card</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="happy.css" />
+  </head>
+  <body>
+    <div class="card">
+      <div class="outside">
+        <div class="front">
+          <p>Happy Birthday
+          <div class="heh" style= "font-family: Courier;">May Pyae </div></p>
+          <div class="cake">
+            <div class="top-layer"></div>
+            <div class="middle-layer"></div>
+            <div class="bottom-layer"></div>
+            <div class="candle"></div>
+          </div>
+        </div>
+        <div class="back"></div>
+      </div>
+      <div class="left">
+      	<p> Happy 14th Birthday</p>
+      	<div class="image"><img style="width: 250px; height: 180px;"src="maypyae.jpg" alt="error loading page">
+      	<h1>&#127874;</h1></div><!DOCTYPE html>
+      	<html>
+      	<head>
+      		<meta charset="utf-8">
+      		<meta name="viewport" content="width=device-width, initial-scale=1">
+      		<title></title>
+      	</head>
+      	<body>
+      	
+      	</body>
+      	</html>
+      </div>
+      <div class="inside">
+        <p>Wishing you a very happy birthday filled with love and laughter</p>
+        <h1>&#127873;</h1>
+      </div>
+    </div>
+  </body>
+</html>
